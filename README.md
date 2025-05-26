@@ -1,6 +1,6 @@
-# Hi there 👋, Md. Salim Rana
-## I 'm Machine Learning Engineer
-![I 'm Machine Learning Engineer](file:///C:/Users/ac/Downloads/salim%20banner.jpg)
+### Hi there 👋, Md. Salim Rana
+#### I 'm Machine Learning Engineer
+![I 'm Machine Learning Engineer]("C:\Users\ac\Downloads\salim banner.jpg")
 
 I 'm Machine Learning Engineering Enthusiast. I love this python machine learning and deep learning project. 
 
