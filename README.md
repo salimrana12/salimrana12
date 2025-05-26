@@ -1,6 +1,6 @@
 ### Hi there 👋, Md. Salim Rana
 #### I 'm Machine Learning Engineer
-![I 'm Machine Learning Engineer](https://ibb.co/GvMZRB2x)
+![I 'm Machine Learning Engineer]([url=https://ibb.co/GvMZRB2x][img]https://i.ibb.co/5WjQLt8M/salim-banner.jpg[/img][/url])
 
 I 'm Machine Learning Engineering Enthusiast. I love this python machine learning and deep learning project. 
 
